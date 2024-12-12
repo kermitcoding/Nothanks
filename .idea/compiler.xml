@@ -10,5 +10,8 @@
         <module name="Nothanks" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nothanks" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
